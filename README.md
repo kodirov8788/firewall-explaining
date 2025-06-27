@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Firewall Explaining** is a tool designed to help users understand, visualize, and debug firewall rules and network security configurations. It provides clear, human-readable explanations for firewall rules, simulates traffic flow, and helps you identify misconfigurations or security gaps.
+**Firewall Explaining** is a tool designed to help users understand, visualize, and debug firewall rules and network security configurations. It provides clear, human-readable explanations for firewall rules, simulates traffic flow, and helps identify misconfigurations or security gaps.
 
 Explore the live app: [firewall-explaining.vercel.app](https://firewall-explaining.vercel.app)
 
@@ -125,6 +125,6 @@ MIT License
 
 ## Contact
 
-For support or suggestions, open a GitHub issue or email [support@yourorg.com](mailto:support@yourorg.com).
+For support or suggestions, please email [kodirov8788@gmail.com](mailto:kodirov8788@gmail.com).
 
 ---
